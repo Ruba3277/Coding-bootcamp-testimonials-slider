@@ -168,7 +168,7 @@ h2{
     }
     .testimonial-content::before{
         top: 25%;
-        
+        left:25%;
     }
     .author{
         flex-direction: row;
